@@ -1,6 +1,3 @@
-Below is a well-structured README file for your YouTube Video Downloader project. It includes an overview, setup instructions, usage details, and other standard sections suitable for a GitHub repository. I’ve tailored it to the Flask-based version with the HTML frontend and `pytubefix` fix we discussed.
-
----
 
 # YouTube Video Downloader
 
