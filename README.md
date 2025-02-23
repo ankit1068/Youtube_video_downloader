@@ -76,6 +76,9 @@ A simple web application built with Python (Flask) and HTML to download YouTube 
 4. Push to your fork (`git push origin feature-branch`).
 5. Open a Pull Request.
 
+## Legal Notice
+This tool is for educational purposes only. Downloading videos from YouTube may violate its [Terms of Service](https://www.youtube.com/static?template=terms). Ensure you have permission to download any content.
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
