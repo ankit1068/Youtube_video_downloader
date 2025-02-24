@@ -1,15 +1,14 @@
-
 # YouTube Video Downloader
 
 A simple web application built with Python (Flask) and HTML to download YouTube videos by entering their URLs. This project uses `pytubefix` to handle video downloads and provides a clean, user-friendly interface.
 
-## Features
+## Features-
 - Input a YouTube URL via a web form.
 - Downloads the video in the highest available resolution (MP4 format).
 - Displays success or error messages after the download attempt.
 - Lightweight and easy to set up.
 
-## Prerequisites
+## Prerequisites-
 - Python 3.6 or higher
 - pip (Python package manager)
 
