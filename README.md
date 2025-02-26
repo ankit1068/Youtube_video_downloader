@@ -56,7 +56,7 @@ A simple web application built with Python (Flask) and HTML to download YouTube 
    - Check the current directory for the downloaded video file (named after the video title).
 
 ## Example Screenshot
-*(Optional: Add a screenshot of the web interface here by uploading an image to the repo and linking it, e.g., `![Interface](screenshot.png)`)*
+
 
 ## Troubleshooting
 - **HTTP Error 403: Forbidden**: If you encounter this error, ensure `pytubefix` is installed (not `pytube`), as it includes fixes for YouTube’s cipher restrictions.
