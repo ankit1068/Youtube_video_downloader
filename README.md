@@ -36,7 +36,7 @@ A simple web application built with Python (Flask) and HTML to download YouTube 
    └── README.md
    ```
 
-## Usage-
+## Usage
 
 1. **Run the Application**
    Start the Flask server:
