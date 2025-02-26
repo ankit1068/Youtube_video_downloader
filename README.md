@@ -78,7 +78,7 @@ A simple web application built with Python (Flask) and HTML to download YouTube 
 This tool is for educational purposes only. Downloading videos from YouTube may violate its [Terms of Service](https://www.youtube.com/static?template=terms). Ensure you have permission to download any content.
 
 
-## License
+## License-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
