@@ -55,7 +55,7 @@ A simple web application built with Python (Flask) and HTML to download YouTube 
    - Click the "Download" button.
    - Check the current directory for the downloaded video file (named after the video title).
 
-## Example Screenshot
+## Example
 
 
 ## Troubleshooting
