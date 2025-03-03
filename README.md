@@ -1,4 +1,4 @@
-# YouTube Video Downloader:--
+# YouTube Video Downloader:-
 
 A simple web application built with Python (Flask) and HTML to download YouTube videos by entering their URLs. This project uses `pytubefix` to handle video downloads and provides a clean, user-friendly interface.
 
