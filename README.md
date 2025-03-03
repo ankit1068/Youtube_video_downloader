@@ -20,7 +20,7 @@ A simple web application built with Python (Flask) and HTML to download YouTube 
    cd youtube-video-downloader
    ```
 
-2. **Install Dependencies** --
+2. **Install Dependencies** 
    Install the required Python packages using pip:
    ```bash
    pip install flask pytubefix
